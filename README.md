@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - link to the portfolio
-- https://vercel.com/balas-projects-4bf0d58b/balaportfoli44
+- https://balaportfoli44.vercel.app/
