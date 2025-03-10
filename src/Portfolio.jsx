@@ -443,7 +443,7 @@ const getProjectCardColor = (index) => {
             <a href="https://github.com/balakrishna-24" className="text-gray-600 hover:text-gray-900">
               <Github size={24} />
             </a>
-            <a href="https://www.linkedin.com/in/bala-k-571907244/" className="text-gray-600 hover:text-gray-900">
+            <a href="https://www.linkedin.com/in/bala-a-874683332/" className="text-gray-600 hover:text-gray-900">
               <Linkedin size={24} />
             </a>
             <a href="mailto:klrbalakrishna@gmail.com" className="text-gray-600 hover:text-gray-900">
